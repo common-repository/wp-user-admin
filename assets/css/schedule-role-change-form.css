@@ -1,0 +1,21 @@
+.wpua-dismiss-icon {
+	vertical-align: middle;
+	cursor: pointer;
+}
+
+.wpua-calendar-icon {
+	vertical-align: sub;
+}
+
+.calendar-apply {
+	text-align: center;
+	border-top: 1px solid #cccccc;
+	padding: 15px;
+}
+
+@media screen and ( max-width: 782px ) {
+	.form-table td input[type="text"] {
+		display: inline;
+		width: inherit;
+	}
+}
